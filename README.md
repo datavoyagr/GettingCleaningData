@@ -7,12 +7,12 @@ As documented in the Readme.txt file included with the files for this assignment
 
 Following are the files used in this script:
 features.txt: list of all the features (variables) being measured
-X_test.txt: measurement data for the Test set
-y_test.txt: list of activity id for Test set
-subject_test.txt: subject id data for Test set
-X_train.txt: measurement data for the Train set
-Y_train.txt: list of activity id for Train set
-Subject_train.txt: subject id data for Train set
+*X_test.txt: measurement data for the Test set
+*y_test.txt: list of activity id for Test set
+*subject_test.txt: subject id data for Test set
+*X_train.txt: measurement data for the Train set
+*Y_train.txt: list of activity id for Train set
+*Subject_train.txt: subject id data for Train set
 
 The script takes these files and creates a tidy set using these steps:
 
