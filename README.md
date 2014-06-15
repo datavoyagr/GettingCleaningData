@@ -1,4 +1,4 @@
-ReadMe.md
+Getting and Cleaning Data Project
 ========================================================
 
 The run_analysis.R script takes the data from the Human Recognition Using Smartphones Data Set and creates a tidy data set consisting of the average of each variable for each activity and each subject, as outlined in the specifications for the Getting and Cleaning Data project.
