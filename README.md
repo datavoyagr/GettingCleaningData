@@ -6,13 +6,13 @@ The run_analysis.R script takes the data from the Human Recognition Using Smartp
 As documented in the Readme.txt file included with the files for this assignment, this experiment used 30 volunteers who performed six activities (walking, walking upstairs, walking downstairs, sitting, standing, laying) while wearing a Samsung smartphone. The data is split between a Test set and a Training set. Movement measurements were captured and are included in the files made available for this project. Included with the files were additional files with information identifying the subject and the activity.
 
 Following are the files used in this script:
-features.txt: list of all the features (variables) being measured
-*X_test.txt: measurement data for the Test set
-*y_test.txt: list of activity id for Test set
-*subject_test.txt: subject id data for Test set
-*X_train.txt: measurement data for the Train set
-*Y_train.txt: list of activity id for Train set
-*Subject_train.txt: subject id data for Train set
+* features.txt: list of all the features (variables) being measured
+* X_test.txt: measurement data for the Test set
+* y_test.txt: list of activity id for Test set
+* subject_test.txt: subject id data for Test set
+* X_train.txt: measurement data for the Train set
+* Y_train.txt: list of activity id for Train set
+* Subject_train.txt: subject id data for Train set
 
 The script takes these files and creates a tidy set using these steps:
 
