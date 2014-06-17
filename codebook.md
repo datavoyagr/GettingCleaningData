@@ -42,7 +42,7 @@ tgravityaccmean.1       |mean of time gravity accelation signal Y-dimension (num
 tgravityaccmean.2       |mean of time gravity accelation signal Z-dimension (numeric)
 tgravityaccstd  |mean of standard deviation of time gravity acceleration signal X-dimension (numeric)
 tgravityaccstd.1        |mean of standard deviation of time gravity acceleration signal Y-dimension (numeric)
-tgravityaccstd.2        |mean of standard deviation of time gravity acceleration signal XZ-dimension (numeric)
+tgravityaccstd.2        |mean of standard deviation of time gravity acceleration signal Z-dimension (numeric)
 tbodyaccjerkmean        |mean of time body linear acceleration X-dimension (numeric)
 tbodyaccjerkmean.1      |mean of time body linear accelaration Y-dimension (numeric)
 tbodyaccjerkmean.2      |mean of time body linear accelaration Z-dimension (numeric)
